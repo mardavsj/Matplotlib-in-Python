@@ -12,7 +12,7 @@ Matplotlib is a Python library for creating various types of visualizations, suc
 Matplotlib was initially released in 2003 by John D. Hunter. It is a powerful and open-source library Python library for data visualization. 
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=blue)](https://github.com/python/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/matplotlib/matplotlib)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&color=violet)](https://github.com/matplotlib/matplotlib)
 
 
 ## Pre-requisites :
