@@ -5,7 +5,7 @@
 
 </div>
 
-![matplotlib_logo](https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_003.png)
+![matplotlib_logo](https://apmonitor.com/pds/uploads/Main/python_matplotlib.png)
 
 Matplotlib is a Python library for creating various types of visualizations, such as plots, histograms, and scatterplots. It's highly customizable and commonly used for data visualization tasks, offering flexibility and control over the appearance of the plots.
 
